@@ -6,4 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/DouDizhu.unity
+    path: "Assets/Scenes/\u5834\u666F.unity"
+    guid: 2d89c28b46b84904fac5dbad744c2e85
+  m_configObjects: {}
